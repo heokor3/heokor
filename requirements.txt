@@ -1,0 +1,6 @@
+asgiref==3.6.0
+colorama==0.4.6
+Contacts==1.0
+Django==4.1.7
+sqlparse==0.4.3
+tzdata==2022.7
